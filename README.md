@@ -9,3 +9,7 @@ Lab 6: knob control(ADC)
 Lab 7: ultrasonic ranger(time capture)  
 Lab 8: breath light(pwm)  
 Lab 9: remote launchpad(I2C)  
+Lab Final: creating a climate detector (temperature, humidity and moisture) for plants  
+               o	Displays values via 7 segment display  
+               o	Alerts via a Buzzer and various LED for different parameters
+
